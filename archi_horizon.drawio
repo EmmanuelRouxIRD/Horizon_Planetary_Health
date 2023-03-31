@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T08:22:32.989Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bWjxN4Anlm_UbY0gnzsU" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T08:22:47.431Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jHzjZH4fxrhRphJiADB9" version="21.1.1" type="github">
   <diagram name="Page-1" id="tpfmhDWZOnEipKTeY5yB">
     <mxGraphModel dx="3865" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CDFzMtoowuqR80sz95AC-88" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Task 5.2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CDFzMtoowuqR80sz95AC-90" value="Dashboards&lt;br&gt;(not shure of the necessity)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="50" height="46.5" as="geometry" />
