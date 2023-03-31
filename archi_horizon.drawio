@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T08:19:46.634Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_VrRrY7S-t0v7sSRCznC" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T08:22:32.989Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bWjxN4Anlm_UbY0gnzsU" version="21.1.1" type="github">
   <diagram name="Page-1" id="tpfmhDWZOnEipKTeY5yB">
     <mxGraphModel dx="3865" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="CDFzMtoowuqR80sz95AC-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CDFzMtoowuqR80sz95AC-25" target="CDFzMtoowuqR80sz95AC-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CDFzMtoowuqR80sz95AC-25" value="Existing FIOCRUZ/ICICT infrastructure&lt;br&gt;(Climate and Health Observatory)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="CDFzMtoowuqR80sz95AC-25" value="Existing FIOCRUZ/ICICT infrastructure&lt;br&gt;(Climate and Health Observatory: https://hal.science/hal-01373887)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="670" width="460" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CDFzMtoowuqR80sz95AC-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CDFzMtoowuqR80sz95AC-26" target="CDFzMtoowuqR80sz95AC-61">
